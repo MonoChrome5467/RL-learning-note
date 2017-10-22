@@ -1,5 +1,4 @@
-# RL-Learning-note
-Reinforcement Learning (RL) 學習筆記
+# Reinforcement Learning (RL) 學習筆記
 
 透過學習列表 [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) 的資源，本專案將學習心得撰寫成簡要的筆記做分享。
 
