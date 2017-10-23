@@ -14,9 +14,9 @@
 
 關於起頭的綜述與結尾的 Case Studies 有興趣者請自行閱讀
 
-| PART 1 : Tabular Solution Methods          | 備 註                            |
+| PART 1 : Tabular Solution Methods          | 學 習 筆 記                      |
 |--------------------------------------------|----------------------------------|
-| Multi-arm Bandits                          |                                  |
+| Multi-arm Bandits                          | [2-1-多臂拉霸機的學習問題](.)    |
 | Finite Markov Decision Processes           |                                  |
 | Dynamic Programming                        |                                  |
 | Monte Carlo Methods                        |                                  |
