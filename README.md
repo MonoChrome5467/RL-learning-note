@@ -20,6 +20,7 @@
 |                                            | [2.2 動作值方法](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-2-動作值方法.md)    |
 |                                            | [2.3 遞增式的算法實作](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-3-遞增式的算法實作.md)    |
 |                                            | [2.4 處理非平穩問題](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-4-處理非平穩問題.md)    |
+|                                            | [2.4 樂觀初始值的設置](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-5-樂觀初始值的設置.md)    |
 | Finite Markov Decision Processes           |                                  |
 | Dynamic Programming                        |                                  |
 | Monte Carlo Methods                        |                                  |
