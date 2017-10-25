@@ -22,6 +22,8 @@
 |                                            | [2.4 處理非平穩問題](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-4-處理非平穩問題.md)    |
 |                                            | [2.5 樂觀初始值的設置](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-5-樂觀初始值的設置.md)    |
 |                                            | [2.6 信賴區間上緣 (UCB)](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-6-UCB-信賴區間上緣.md)    |
+|                                            | [2.7 選擇偏好與梯度演算法](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-7-選擇偏好與梯度演算法.md)    |
+|                                            | [2.8 關聯搜索](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-8-關聯搜索.md)    |
 | Finite Markov Decision Processes           |                                  |
 | Dynamic Programming                        |                                  |
 | Monte Carlo Methods                        |                                  |
