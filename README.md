@@ -25,6 +25,7 @@
 |                                            | [2.7 選擇偏好與梯度演算法](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-7-選擇偏好與梯度演算法.md)    |
 |                                            | [2.8 關聯搜索](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-8-關聯搜索.md)    |
 | Finite Markov Decision Processes           | [3.1 代理與環境的界限](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/3-1-代理與環境的界限.md)    |
+|                                           | [3.2 目標與獎勵](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/3-2-目標與獎勵.md)    |
 | Dynamic Programming                        |                                  |
 | Monte Carlo Methods                        |                                  |
 | Temporal-Difference Learning               |                                  |
@@ -68,5 +69,8 @@
 | 譜理論遷移學習               |                                  |
 
 
+## TBD
+
+可以做一個增強學習模型的 Checklist , 要用 Gym 時的 checklist
 
 
