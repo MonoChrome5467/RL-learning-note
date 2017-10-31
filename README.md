@@ -24,7 +24,7 @@
 |                                            | [2.6 信賴區間上緣 (UCB)](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-6-UCB-信賴區間上緣.md)    |
 |                                            | [2.7 選擇偏好與梯度演算法](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-7-選擇偏好與梯度演算法.md)    |
 |                                            | [2.8 關聯搜索](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/2-8-關聯搜索.md)    |
-| Finite Markov Decision Processes           |                                  |
+| Finite Markov Decision Processes           | [3.1 代理與環境的界限](https://github.com/sukki/RL-learning-note/blob/master/Reinforcement%20Learning%20An%20Introduction/3-1-代理與環境的界限.md)    |
 | Dynamic Programming                        |                                  |
 | Monte Carlo Methods                        |                                  |
 | Temporal-Difference Learning               |                                  |
