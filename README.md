@@ -1,4 +1,7 @@
 # Reinforcement Learning (RL) 學習筆記
+[![gitbook](https://rawgit.com/aleen42/badges/master/src/gitbook_1.svg)](https://cdn.rawgit.com/aleen42/badges/master/src/gitbook_1.svg) 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 透過學習列表 [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) 的資源，本專案將學習心得撰寫成簡要的筆記做分享。
 
