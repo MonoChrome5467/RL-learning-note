@@ -73,4 +73,13 @@
 
 可以做一個增強學習模型的 Checklist , 要用 Gym 時的 checklist
 
+※ 本專案目前還沒有正式的貢獻者指南，詳情請上 [臉書 Sukki 討論區](https://www.facebook.com/groups/sukki.project/) 交流
+
+## Contributors
+
+- [KBJIYU](https://github.com/KBJIYU)
+
+
+
+
 
