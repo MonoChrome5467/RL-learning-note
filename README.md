@@ -80,6 +80,8 @@
 
 ## Contributors
 
+- [fatfingererr](https://github.com/fatfingererr)
+
 - [KBJIYU](https://github.com/KBJIYU)
 
 
