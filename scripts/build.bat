@@ -1,0 +1,1 @@
+nodevars && cd /d %~dp0 && gitbook build ../resources/ ../docs/ && gitbook build ../resources/reinforcement-learning-an-introduction/ ../docs/reinforcement-learning-an-introduction/
