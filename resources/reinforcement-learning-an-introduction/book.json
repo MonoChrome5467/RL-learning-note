@@ -1,0 +1,48 @@
+{
+	"gitbook": ">=2.0.0",
+    "author": "Sukki",
+    "description": "Reinforcement Learning : An Introduction 學習筆記",
+    "links": {
+        "sharing": {
+            "all": "fatfingererr",
+            "facebook": "fatfingererr",
+            "google": "fatfingererr",
+            "twitter": "fatfingererr"
+        },
+        "sidebar": {
+            "認識 Sukki": "https://sukki.github.io",
+            "一起寫筆記": "https://github.com/sukki/RL-learning-note/blob/master/CONTRIBUTING.md"
+        }
+    },
+    "output":{
+    	"name": "site"
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "disqus",
+        "anchors",
+        "theme-comscore",
+        "multipart",
+        "codeblock-filename",
+        "mathjax"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "fatfingererr"
+        }
+    },
+    "title": "Reinforcement Learning : An Introduction 學習筆記",
+    "variables": {}
+}
